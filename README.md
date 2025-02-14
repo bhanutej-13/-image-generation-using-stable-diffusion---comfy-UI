@@ -1,4 +1,4 @@
-# -image-generation-using-stable-diffusion---comfy-UI
+# Image Generation using stable diffusion & Comfy UI 
 
 A powerful tool for generating images using CLIP, Stable Diffusion, and ComfyUI.
 
